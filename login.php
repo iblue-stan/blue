@@ -15,8 +15,3 @@ if ($name == "123" && $pass == "123") {
     echo "帳號密碼錯誤喔！！";
     header("Refresh: 1; index.php");
 }
-
-echo "AAA";
-echo "BBB";
-echo "CCC";
-echo "DDD";
